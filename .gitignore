@@ -1,3 +1,4 @@
 .venv
 backend/netflix_titles.csv
 backend/index
+frontend/node_modules
